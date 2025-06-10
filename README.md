@@ -104,3 +104,13 @@ O `book-service` é um microsserviço responsável pelo cadastro e gerenciamento
     * `403 Forbidden`: Se o cabeçalho `X-Internal-Request` estiver ausente ou for inválido.
     * `404 Not Found`: Se nenhum livro for encontrado com o ID fornecido.
     * `409 Conflict`: Se o livro já estiver no estado para o qual se está tentando alterar.
+             
+---
+
+* **Alunos:**
+    * Gabriel Alexandre Marassi Sitta, RA: 223020912
+    * Kauan Henrique Bertalha, RA: 222620742
+    * Matheus Toscano Rossini, RA: 222122622
+    * João Antônio Rolo, RA: 220143992
+    * Andre Luis Jacob Roman, RA: 220145512
+    * Willyan Santos Tomaz e Silva, RA: 220141282
